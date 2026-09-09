@@ -1,30 +1,32 @@
-# React + TypeScript + Vite
+# Portfólio Web em React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto de portfólio desenvolvido com **React**, **TypeScript** e **Vite**.
 
-Currently, two official plugins are available:
+A aplicação foi criada como parte da evolução prática em desenvolvimento Web e reúne componentes, interfaces e organização de um projeto front-end moderno.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias
 
-## Expanding the ESLint configuration
+- React
+- TypeScript
+- Vite
+- Material UI
+- Emotion
+- ESLint
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Objetivos do projeto
 
-- Configure the top-level `parserOptions` property like this:
+- Praticar desenvolvimento de interfaces com React e TypeScript.
+- Trabalhar componentização e organização de código.
+- Explorar uma biblioteca de componentes para construção de UI.
+- Consolidar o fluxo de desenvolvimento com Vite, ESLint e Git.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Autor
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+**Angelo Braga**
+
+Técnico em Informática com foco atual em Desenvolvimento Web e Front-end.
+
+- Portfólio: https://portifolio-angelobraga.netlify.app/
+- GitHub: https://github.com/AngeloBraga12
+- LinkedIn: https://www.linkedin.com/in/angelo-braga-5747b4192/
+- E-mail: Angelobraga213@gmail.com
