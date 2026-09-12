@@ -1,10 +1,12 @@
-# Portfólio Web em React
+# Portfólio Web · React
 
-Projeto de portfólio desenvolvido com **React**, **TypeScript** e **Vite**.
+Projeto de portfólio desenvolvido durante a evolução de Angelo Braga em Desenvolvimento Web e Front-end.
 
-A aplicação foi criada como parte da evolução prática em desenvolvimento Web e reúne componentes, interfaces e organização de um projeto front-end moderno.
+> **Status:** projeto histórico / versão anterior do portfólio.
+>
+> A versão atualmente publicada do portfólio é mantida separadamente no repositório `Portif-lio-Web` enquanto a sincronização com a versão de produção é consolidada.
 
-## Tecnologias
+## Stack
 
 - React
 - TypeScript
@@ -13,20 +15,22 @@ A aplicação foi criada como parte da evolução prática em desenvolvimento We
 - Emotion
 - ESLint
 
-## Objetivos do projeto
+## Objetivos
 
-- Praticar desenvolvimento de interfaces com React e TypeScript.
-- Trabalhar componentização e organização de código.
-- Explorar uma biblioteca de componentes para construção de UI.
-- Consolidar o fluxo de desenvolvimento com Vite, ESLint e Git.
+- Praticar React e TypeScript.
+- Desenvolver interfaces componentizadas.
+- Trabalhar organização de aplicações front-end.
+- Consolidar fluxo de desenvolvimento com Vite, ESLint e Git.
+
+## Papel no portfólio
+
+Este repositório é mantido como registro da evolução técnica. Para avaliação da versão mais atual do trabalho, consulte o projeto `Portif-lio-Web` e o portfólio publicado.
 
 ## Autor
 
-**Angelo Braga**
+**Angelo Braga**  
+Técnico em Informática · Desenvolvimento Web / Front-end
 
-Técnico em Informática com foco atual em Desenvolvimento Web e Front-end.
-
-- Portfólio: https://portifolio-angelobraga.netlify.app/
 - GitHub: https://github.com/AngeloBraga12
 - LinkedIn: https://www.linkedin.com/in/angelo-braga-5747b4192/
-- E-mail: Angelobraga213@gmail.com
+- Portfólio: https://portifolio-angelobraga.netlify.app/
